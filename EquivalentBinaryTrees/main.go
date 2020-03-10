@@ -1,3 +1,5 @@
+// Solution to Tour of Go - Exercise: Equivalent Binary Trees
+
 package main
 
 import (

@@ -1,3 +1,5 @@
+// Solution to Tour of Go - Exercise: Web Crawler
+
 package main
 
 import (
